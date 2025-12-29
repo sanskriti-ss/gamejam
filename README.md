@@ -4,4 +4,4 @@ Jump to avoid obstacles!
 
 Made with unity
 
-image.png
+[Screenshot](https://github.com/sanskriti-ss/gamejam/blob/main/gamejam%20ss.png)
